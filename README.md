@@ -47,7 +47,7 @@ No need to download anything manually! When you run the notebook, the dataset is
 This project includes a `requirements.txt` file listing all necessary Python packages. Install them with:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/hrishikeshChandi/bone-fracture-detection/
 cd bone-fracture-detection-main
 pip install -r requirements.txt
 ```
