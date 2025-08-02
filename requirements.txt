@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm
+kagglehub
+Pillow
+torchmetrics
+mlxtend
+matplotlib
+tensorboard
